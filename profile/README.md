@@ -1,6 +1,7 @@
 ## Hi there !
 https://ail-and-colleagues.github.io/
 
+e-mail: kado[at]chiba-u.jp
 <!--
 
 **Here are some ideas to get you started:**
